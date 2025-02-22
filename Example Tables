@@ -1,0 +1,19 @@
+Accounts
+
+account_id	sign_up_date	network_id	platform
+1502496	    2024-02-03	    143356    	web
+
+Networks
+
+network_id	network_name	network_type
+143356	    facebook	    social
+
+Daily_performance
+
+account_id	date	      purchase	redeem	   bet	 win	 bonus
+1502496	    2024-03-04	0.95	      3	     15325	9547	 700
+
+media_cost
+
+network_id	    date	   impressions	clicks	cost
+143356	      2024-03-04	 354894	     574   	677
